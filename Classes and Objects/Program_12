@@ -1,3 +1,4 @@
+/write a cpp program to read mark and spi and display
 #include<iostream>
 using namespace std;
 class Test
