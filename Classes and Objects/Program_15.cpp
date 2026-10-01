@@ -1,3 +1,4 @@
+//Write a cpp code to implement class as rectangle
 #include<iostream>
 using namespace std;
 class rect
