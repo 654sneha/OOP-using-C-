@@ -1,3 +1,4 @@
+//Write cpp code to implement passing objects as function arguments and add
 #include<iostream>
 using namespace std;
 class Time
