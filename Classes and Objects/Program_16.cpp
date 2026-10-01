@@ -1,3 +1,4 @@
+//Write a cpp code to implement student class using scope resolution
 #include<iostream>
 using namespace std;
 
