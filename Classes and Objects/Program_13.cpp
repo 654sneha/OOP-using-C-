@@ -1,3 +1,4 @@
+//Write a cpp code to implement class and object
 #include<iostream>
 using namespace std;
 class student
@@ -8,7 +9,7 @@ class student
     public:
     void SetData()
     {
-       /* name = "Ruturaj";
+       /* name = "Sneha";
         age = 21;*/
         cout<<"Enter name : ";
         cin>>name;
