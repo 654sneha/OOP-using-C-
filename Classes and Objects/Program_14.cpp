@@ -1,3 +1,4 @@
+//Write a cpp code to implement scope resolution vector
 #include<iostream>
 using namespace std;
 class car
