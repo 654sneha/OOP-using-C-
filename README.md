@@ -9,7 +9,16 @@ The repository focuses on understanding how object-oriented principles are used 
 Each topic is documented with its **definition, purpose, working principle, important features, and real-world applications** to build both theoretical and practical understanding of C++ OOP.
 
 ---
+# 🎓 Student Details
+Field	Details
+Name	Sneha Basavaraj Navalagund
+Roll No.	622
+Division	F
+USN	01FE23BEC321
+Semester	VII
+University  KLE Technological University
 
+---
 ## 🎯 Objectives
 
 The main objectives of this repository are:
