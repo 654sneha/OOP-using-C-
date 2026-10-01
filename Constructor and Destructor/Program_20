@@ -1,24 +1,28 @@
 /write a cpp program to take mileage as input and display
 #include<iostream>
 using namespace std;
-class car
-{
-private:
-    float mileage;
-public:
-    car()//same name as class name
-    {
-        cout<<"Enter mileage:";
-        cin>>mileage; //similar to member fnx
-    }
-    void display()
-    {
-        cout<<"Mileage:"<<mileage<<endl;
-    }
+
+class Test{
+    private:
+        int mark;
+        int spi;
+    public:
+        void setdata()
+        {
+            mark=270;
+            spi=6.5;
+        }
+        void displaydata()
+        {
+            cout<<"mark="<<mark<<endl;
+            cout<<"spi="<<spi;
+        }
 };
+
 int main()
 {
-    car c1,c2;//called automatically on creation of object
-    c1.display();
-    c2.display();
+Test o1;
+o1.setdata();
+o1.displaydata();
+return 0;
 }
