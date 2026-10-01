@@ -1,3 +1,4 @@
+//Write a cpp code to implement time as class and set and display function
 #include<iostream>
 using namespace std;
 class Time
