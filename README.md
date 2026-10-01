@@ -10,14 +10,15 @@ Each topic is documented with its **definition, purpose, working principle, impo
 
 ---
 # 🎓 Student Details
-Field	Details
-Name	Sneha Basavaraj Navalagund
-Roll No.	622
-Division	F
-USN	01FE23BEC321
-Semester	VII
-University  KLE Technological University
 
+| **Field** | **Details** |
+|---|---|
+| **Name** | Sneha Basavaraj Navalagund |
+| **Roll No.** | 622 |
+| **Division** | F |
+| **USN** | 01FE23BEC321 |
+| **Semester** | VII |
+| **University** | KLE Technological University |
 ---
 ## 🎯 Objectives
 
